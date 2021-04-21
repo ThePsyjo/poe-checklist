@@ -12,6 +12,7 @@ import {
 } from 'src/styles/listRowStyles';
 import filterableList from 'src/hoc/filterableList';
 import MapName from 'src/components/maps/MapName';
+import MapTier from 'src/components/maps/MapTier';
 import PictureThumbnail from 'src/components/maps/PictureThumbnail';
 import React from 'react';
 import sortableList from 'src/hoc/sortableList';
@@ -100,6 +101,12 @@ export class MapsList extends React.Component {
             name: 'Map',
             key: 'name',
             component: MapName,
+            isSortable: true,
+          },
+          {
+            name: 'Tier',
+            key: 'tier',
+            component: MapTier,
             isSortable: true,
           },
           {

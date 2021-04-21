@@ -1,0 +1,1214 @@
+{
+  "version": 3.14,
+  "list": [
+    {
+      "name": "Iceberg Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 4
+    },
+    {
+      "name": "Cursed Crypt Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 13
+    },
+    {
+      "name": "Fungal Hollow Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 11
+    },
+    {
+      "name": "Alleyways Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 8
+    },
+    {
+      "name": "The Coward's Trial",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Tirn's End"
+    },
+    {
+      "name": "Ramparts Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 4
+    },
+    {
+      "name": "Dungeon Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 9
+    },
+    {
+      "name": "Excavation Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 14
+    },
+    {
+      "name": "Peninsula Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 2
+    },
+    {
+      "name": "Strand Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 3
+    },
+    {
+      "name": "Haunted Mansion Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 5
+    },
+    {
+      "name": "Whakawairua Tuahu",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Tirn's End"
+    },
+    {
+      "name": "Atoll Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 5
+    },
+    {
+      "name": "Channel Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 4
+    },
+    {
+      "name": "Arid Lake Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 3
+    },
+    {
+      "name": "Desert Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 4
+    },
+    {
+      "name": "Barrows Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 14
+    },
+    {
+      "name": "Spider Lair Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 9
+    },
+    {
+      "name": "Jungle Valley Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 1
+    },
+    {
+      "name": "Maze Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 13
+    },
+    {
+      "name": "Ashen Wood Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 3
+    },
+    {
+      "name": "Leyline Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 4
+    },
+    {
+      "name": "Esh's Breachstone",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Tul's Breachstone",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "The Apex of Sacrifice",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Xoph's Breachstone",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Doryani's Machinarium",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Lex Proxima"
+    },
+    {
+      "name": "Maelstr\u00f6m of Chaos",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Tirn's End"
+    },
+    {
+      "name": "Flooded Mine Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 11
+    },
+    {
+      "name": "Armoury Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 5
+    },
+    {
+      "name": "Beach Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 14
+    },
+    {
+      "name": "Glacier Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 3
+    },
+    {
+      "name": "Lookout Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 4
+    },
+    {
+      "name": "City Square Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 14
+    },
+    {
+      "name": "Mausoleum Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 9
+    },
+    {
+      "name": "Port Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 11
+    },
+    {
+      "name": "Underground Sea Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 2
+    },
+    {
+      "name": "Arcade Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 1
+    },
+    {
+      "name": "Oba's Cursed Trove",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Lex Proxima"
+    },
+    {
+      "name": "Pen Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 1
+    },
+    {
+      "name": "Thicket Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 14
+    },
+    {
+      "name": "Cage Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 4
+    },
+    {
+      "name": "Graveyard Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 3
+    },
+    {
+      "name": "Grotto Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 2
+    },
+    {
+      "name": "Courtyard Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 3
+    },
+    {
+      "name": "Crater Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 2
+    },
+    {
+      "name": "Marshes Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 4
+    },
+    {
+      "name": "Sulphur Vents Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 3
+    },
+    {
+      "name": "Ancient City Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 3
+    },
+    {
+      "name": "The Vinktar Square",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "New Vastir"
+    },
+    {
+      "name": "Residence Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 14
+    },
+    {
+      "name": "Temple Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 3
+    },
+    {
+      "name": "Primordial Pool Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 4
+    },
+    {
+      "name": "Promenade Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 2
+    },
+    {
+      "name": "Sepulchre Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 14
+    },
+    {
+      "name": "Vault Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 15
+    },
+    {
+      "name": "Pit Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 16
+    },
+    {
+      "name": "Burial Chambers Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 16
+    },
+    {
+      "name": "Lair Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 2
+    },
+    {
+      "name": "Necropolis Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 16
+    },
+    {
+      "name": "Overgrown Shrine Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 9
+    },
+    {
+      "name": "Hall of Grandmasters",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest"
+    },
+    {
+      "name": "Acton's Nightmare",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest"
+    },
+    {
+      "name": "Death and Taxes",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Tirn's End"
+    },
+    {
+      "name": "Bone Crypt Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 4
+    },
+    {
+      "name": "Academy Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 4
+    },
+    {
+      "name": "Fields Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 2
+    },
+    {
+      "name": "Bazaar Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 15
+    },
+    {
+      "name": "Cells Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 5
+    },
+    {
+      "name": "Geode Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 3
+    },
+    {
+      "name": "Ghetto Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 10
+    },
+    {
+      "name": "Mud Geyser Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 3
+    },
+    {
+      "name": "Mineral Pools Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 9
+    },
+    {
+      "name": "Shore Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 3
+    },
+    {
+      "name": "Estuary Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 15
+    },
+    {
+      "name": "Pier Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 3
+    },
+    {
+      "name": "Spider Forest Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 2
+    },
+    {
+      "name": "Olmec's Sanctum",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris"
+    },
+    {
+      "name": "Mao Kun",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns"
+    },
+    {
+      "name": "Lighthouse Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 5
+    },
+    {
+      "name": "Phantasmagoria Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 10
+    },
+    {
+      "name": "Volcano Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 2
+    },
+    {
+      "name": "Conservatory Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 11
+    },
+    {
+      "name": "Dunes Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 4
+    },
+    {
+      "name": "Lava Chamber Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 3
+    },
+    {
+      "name": "Toxic Sewer Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 3
+    },
+    {
+      "name": "Orchard Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 3
+    },
+    {
+      "name": "Cemetery Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 3
+    },
+    {
+      "name": "Waterways Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 7
+    },
+    {
+      "name": "The Pale Court",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Uul-Netol's Breachstone",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Hallowed Ground",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Lex Proxima"
+    },
+    {
+      "name": "Pillars of Arun",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Lex Proxima"
+    },
+    {
+      "name": "Untainted Paradise",
+      "isUnique": true,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Vaal Pyramid Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 3
+    },
+    {
+      "name": "Canyon Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 3
+    },
+    {
+      "name": "Underground River Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 2
+    },
+    {
+      "name": "Laboratory Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 3
+    },
+    {
+      "name": "Museum Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 4
+    },
+    {
+      "name": "Tropical Island Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 2
+    },
+    {
+      "name": "Coral Ruins Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 12
+    },
+    {
+      "name": "Castle Ruins Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 15
+    },
+    {
+      "name": "Villa Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 15
+    },
+    {
+      "name": "Caer Blaidd, Wolfpack's Den",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Lex Proxima"
+    },
+    {
+      "name": "Vaults of Atziri",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet"
+    },
+    {
+      "name": "Poorjoy's Asylum",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Tirn's End"
+    },
+    {
+      "name": "The Putrid Cloister",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "Tirn's End"
+    },
+    {
+      "name": "Wharf Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Tirn's End",
+      "tier": 2
+    },
+    {
+      "name": "Arachnid Nest Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 16
+    },
+    {
+      "name": "Overgrown Ruin Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 3
+    },
+    {
+      "name": "Moon Temple Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 2
+    },
+    {
+      "name": "Relic Chambers Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 9
+    },
+    {
+      "name": "Scriptorium Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 10
+    },
+    {
+      "name": "Plateau Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 13
+    },
+    {
+      "name": "Chateau Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 5
+    },
+    {
+      "name": "Factory Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 3
+    },
+    {
+      "name": "Mesa Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 14
+    },
+    {
+      "name": "The Twilight Temple",
+      "isUnique": true,
+      "isOnAtlas": true,
+      "region": "New Vastir"
+    },
+    {
+      "name": "Perandus Manor",
+      "isUnique": true,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Infested Valley Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 2
+    },
+    {
+      "name": "Wasteland Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 4
+    },
+    {
+      "name": "Arena Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 2
+    },
+    {
+      "name": "Coves Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 1
+    },
+    {
+      "name": "Arachnid Tomb Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 15
+    },
+    {
+      "name": "Bog Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 15
+    },
+    {
+      "name": "Arsenal Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 4
+    },
+    {
+      "name": "Dig Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 12
+    },
+    {
+      "name": "Basilica Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 3
+    },
+    {
+      "name": "Palace Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 5
+    },
+    {
+      "name": "Desert Spring Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 5
+    },
+    {
+      "name": "Precinct Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 4
+    },
+    {
+      "name": "Crystal Ore Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 4
+    },
+    {
+      "name": "Malformation Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 6
+    },
+    {
+      "name": "Acid Caverns Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 14
+    },
+    {
+      "name": "Reef Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 3
+    },
+    {
+      "name": "Courthouse Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 4
+    },
+    {
+      "name": "Carcass Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 5
+    },
+    {
+      "name": "Sunken City Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 2
+    },
+    {
+      "name": "Terrace Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 15
+    },
+    {
+      "name": "Shipyard Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 12
+    },
+    {
+      "name": "Gardens Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 2
+    },
+    {
+      "name": "Park Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 13
+    },
+    {
+      "name": "Siege Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 12
+    },
+    {
+      "name": "Colonnade Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 15
+    },
+    {
+      "name": "Colosseum Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 14
+    },
+    {
+      "name": "Crimson Temple Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 4
+    },
+    {
+      "name": "Summit Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 15
+    },
+    {
+      "name": "Tower Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 2
+    },
+    {
+      "name": "Chayula's Breachstone",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "The Alluring Abyss",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Belfry Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 3
+    },
+    {
+      "name": "Plaza Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 3
+    },
+    {
+      "name": "Ivory Temple Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Proxima",
+      "tier": 11
+    },
+    {
+      "name": "Caldera Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 14
+    },
+    {
+      "name": "Racecourse Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Glennach Cairns",
+      "tier": 8
+    },
+    {
+      "name": "Shrine Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Haewark Hamlet",
+      "tier": 5
+    },
+    {
+      "name": "Primordial Blocks Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 3
+    },
+    {
+      "name": "Waste Pool Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "New Vastir",
+      "tier": 5
+    },
+    {
+      "name": "Defiled Cathedral Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 2
+    },
+    {
+      "name": "Core Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 14
+    },
+    {
+      "name": "Dark Forest Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lira Arthain",
+      "tier": 7
+    },
+    {
+      "name": "Lava Lake Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Lex Ejoris",
+      "tier": 15
+    },
+    {
+      "name": "The Beachhead",
+      "isUnique": true,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Forge of the Phoenix Map",
+      "isUnique": false,
+      "isOnAtlas": false,
+      "tier": 16
+    },
+    {
+      "name": "Lair of the Hydra Map",
+      "isUnique": false,
+      "isOnAtlas": false,
+      "tier": 16
+    },
+    {
+      "name": "Maze of the Minotaur Map",
+      "isUnique": false,
+      "isOnAtlas": false,
+      "tier": 16
+    },
+    {
+      "name": "Pit of the Chimera Map",
+      "isUnique": false,
+      "isOnAtlas": false,
+      "tier": 16
+    },
+    {
+      "name": "Vaal Temple Map",
+      "isUnique": false,
+      "isOnAtlas": true,
+      "region": "Valdo's Rest",
+      "tier": 16
+    },
+    {
+      "name": "The Shaper's Realm",
+      "isUnique": false,
+      "isOnAtlas": false
+    },
+    {
+      "name": "Frozen Cabins Map",
+      "tier": 2,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Forking River Map",
+      "tier": 3,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "The Beachhead Map",
+      "tier": 16,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Silo Map",
+      "tier": 6,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Dry Sea Map",
+      "tier": 8,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Stagnation Map",
+      "tier": 9,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Forbidden Woods Map",
+      "tier": 10,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Grave Trough Map",
+      "tier": 11,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Cold River Map",
+      "tier": 11,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Crimson Township Map",
+      "tier": 12,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Bramble Valley Map",
+      "tier": 14,
+      "isUnique": false,
+      "isOnAtlas": true
+    },
+    {
+      "name": "Foundry Map",
+      "tier": 15,
+      "isUnique": false,
+      "isOnAtlas": true
+    }
+  ]
+}
