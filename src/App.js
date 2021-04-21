@@ -5,6 +5,7 @@ import COLORS from 'src/styles/COLORS';
 import Drawers from 'src/components/drawers/Drawers';
 import EventListener from 'react-event-listener';
 import Header from 'src/components/header/Header';
+import GoogleAdsBlock from 'src/components/googleads/GoogleAdsBlock';
 import React from 'react';
 import Routes from 'src/components/Routes';
 import styled from 'react-emotion';
@@ -35,6 +36,7 @@ class App extends React.Component {
       <Provider store={this.props.store}>
         <HashRouter>
           <SiteContainer data-test="site-container">
+            <GoogleAdsBlock />
             <EventListener target="window" onKeyDown={this.handleKeyDown} />
             <Header />
             <Routes />
